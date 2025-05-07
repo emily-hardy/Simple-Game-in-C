@@ -1,4 +1,4 @@
-# Simple-Game-in-C
+# simple-game-in-C
  <b>This program includes libraries created by Harvard University's Intro To Comp Sci 50</b>
  <br/>
  <i> a game that receives input from the user to make a pyramid </i>
